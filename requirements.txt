@@ -1,5 +1,7 @@
-pygame>=2.1.2
-numpy>=1.23.5
+pygame>=2.5.0
+PyOpenGL>=3.1.6
+PyOpenGL_accelerate>=3.1.6
+numpy>=1.24.0
 matplotlib>=3.6.3
 tkinter  # tkinter no se instala con pip, ya viene con Python
 Pillow>=9.4.0
