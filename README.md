@@ -34,7 +34,7 @@ sistema-solar-animacion
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Highlander2003/sistema-solar-animacion
    ```
 2. Navega al directorio del proyecto:
    ```bash
