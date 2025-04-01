@@ -1,0 +1,15 @@
+{
+  "animation": {
+    "frame_rate": 60,
+    "duration": 120,
+    "background_color": "#000000"
+  },
+  "planets": {
+    "default_moons": 1,
+    "max_moons": 10
+  },
+  "ui": {
+    "theme": "light",
+    "show_labels": true
+  }
+}
